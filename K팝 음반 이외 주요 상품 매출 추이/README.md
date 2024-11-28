@@ -1,6 +1,10 @@
 # K팝 음반 이외 주요 상품 매출 추이
 
-출처: https://www.hankyung.com/article/202202204843Y
+![](image.png)
+
+출처: <https://www.hankyung.com/article/202202204843Y>
+
+- [ `data.csv`](./data.csv)는 상기 이미지를 직접 데이터프레임으로 옮긴 것이다.
 
 ## 더 알아보기
 
